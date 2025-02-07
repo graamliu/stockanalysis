@@ -34,5 +34,5 @@ There are three main components:
 
 ## Kinesis Config
 
-![kinesis_config](assets/kinesis_config.png)
+![kinesis_config](kinesis_config.png)
 
