@@ -1,8 +1,7 @@
-# Streaming Finance Data with AWS Lambda: Graam Liu Project 3
+# Streaming Finance Data with AWS Lambda: Graam Liu
 
 Using an AWS Lambda function and [yfinance](https://pypi.org/project/yfinance/), 
-historical price information for November 30, 2021 was collected for the stocks below   
-to demonstrate how near real-time financial data could be collected for querying which is interactive. 
+historical price information for November 30, 2021 was collected for the stocks below to demonstrate how near real-time financial data could be collected for querying which is interactive. 
  
 - Facebook (FB)
 - Shopify (SHOP)
